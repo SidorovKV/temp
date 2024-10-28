@@ -7,7 +7,7 @@ urls:
 
 https://basket-10.wbbasket.ru/vol1589/part158904/158904311/images/big/5.webp - MessageMarketingText
 
-![158904311_1.webp](images/158904311_1.webp){: width="30%"}
+<img alt="158904311_1.webp" height="400" src="images/158904311_1.webp" width="300"/>
 
 ![158904311_5.webp](images/158904311_5.webp){: width="30%!"(MISSING)}
 
